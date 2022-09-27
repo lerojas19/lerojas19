@@ -1,0 +1,14 @@
+"L4DDRL","L4DL01","L4DABS","L4DADD","L4DYFX","L4MADD","L4CALN","L4WKDY","L4DSTRPAMT","L4DSTRDTE","L4DLVPRC","L4ADVPMNT","L4BSDON","L4URAT","L4URCD","L4URDT","L4URAB","L4URRF","L4TORG","L4USER","L4PID","L4JOBN","L4UUPMJ"
+"30PCN","Due after 30% of Receipt      "," ",0,0,0,"            "," ",0,,300000,"0","RE ",0,"  ",0,0,"               ","JG5941598 ","JG5941598 ","P00146    ","denmlps12 ",
+"ADVPY","Advance Payment               "," ",0,15,1,"            "," ",0,,0,"1","CE ",0,"  ",0,0,"               ","JG5941598 ","JG5941598 ","P00146    ","denmlps12 ",08-FEB-06
+"DNEXT","Calculate Next Due Date       ","1",10,0,0,"         M10","1",0,01-JAN-70,0," ","   ",0,"  ",0,0,"               ","          ","          ","          ","          ",01-JAN-70
+"DSWNG","Discount Date - Swing Terms   ","2",10,0,0,"         M10","1",0,01-JAN-70,0," ","   ",0,"  ",0,0,"               ","          ","          ","          ","          ",01-JAN-70
+"EOMRE","End of Month after Receipt    "," ",0,31,1,"            "," ",0,,0,"0","RE ",0,"  ",0,0,"               ","JG5941598 ","JG5941598 ","P00146    ","denmlps12 ",08-FEB-06
+"EOMTD","End of Month - Receipt to Date"," ",0,31,1,"            "," ",0,,0,"0","TD ",0,"  ",0,0,"               ","JG5941598 ","JG5941598 ","P00146    ","denmlps12 ",08-FEB-06
+"EOMTR","End Of Month  - Total Receipts"," ",0,31,1,"            "," ",0,,0,"0","TR ",0,"  ",0,0,"               ","JG5941598 ","JG5941598 ","P00146    ","denmlps12 ",08-FEB-06
+"J15  ","Japan 15 Due Date Rule        ","1",0,0,0,"          30","2",0,01-JAN-70,0," ","   ",0,"  ",0,0,"               ","          ","          ","          ","          ",01-JAN-70
+"J31  ","Japan 31 Due Date Rule        ","1",0,0,0,"          30","2",0,01-JAN-70,0," ","   ",0,"  ",0,0,"               ","          ","          ","          ","          ",01-JAN-70
+"MULTI","Multitiered Discount          "," ",0,0,0,"            "," ",0,01-JAN-70,0," ","   ",0,"  ",0,0,"               ","          ","          ","          ","          ",01-JAN-70
+"N30  ","Net 30 Days                   ","1",30,0,0,"            "," ",0,01-JAN-70,0,"0","   ",0,"  ",0,0,"               ","JCHAPARRO ","JCHAPARRO ","P00146    ","INDBOENT  ",28-APR-08
+"RANGE","Fixed Date - Range            ","1",0,0,0,"            "," ",0,01-JAN-70,0," ","   ",0,"  ",0,0,"               ","          ","          ","          ","          ",01-JAN-70
+"RTG30","Retencion por garantia 30 dias"," ",0,0,11,"            "," ",0,,0,"0","   ",0,"  ",0,0,"               ","JCHAPARRO ","JCHAPARRO ","P00146    ","INDBOENT  ",28-APR-08
